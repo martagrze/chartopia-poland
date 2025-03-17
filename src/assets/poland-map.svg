@@ -1,0 +1,11 @@
+
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M97.5,37.5 L75,50 L60,65 L55,87.5 L65,110 L72.5,115 L105,110 L125,112.5 L140,125 L150,132.5 L165,140 L172.5,150 L175,160 L187.5,165 L200,167.5 L210,177.5 L232.5,177.5 L237.5,190 L242.5,197.5 L235,212.5 L227.5,232.5 L222.5,240 L210,247.5 L185,250 L167.5,252.5 L157.5,242.5 L142.5,240 L130,227.5 L115,225 L97.5,215 L90,212.5 L80,210 L67.5,200 L67.5,187.5 L62.5,175 L62.5,160 L52.5,145 L55,125 L57.5,115 L65,105 L65,90 L65,75 L72.5,55 L85,47.5 L97.5,37.5 Z" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-width="1.5"/>
+  <circle cx="90" cy="120" r="5" fill="#3b82f6" fill-opacity="0.4"/>
+  <circle cx="155" cy="85" r="5" fill="#3b82f6" fill-opacity="0.4"/>
+  <circle cx="200" cy="140" r="5" fill="#3b82f6" fill-opacity="0.4"/>
+  <circle cx="150" cy="190" r="5" fill="#3b82f6" fill-opacity="0.4"/>
+  <circle cx="110" cy="210" r="5" fill="#3b82f6" fill-opacity="0.4"/>
+  <circle cx="160" cy="145" r="8" fill="#3b82f6" fill-opacity="0.6"/>
+  <text x="150" y="245" fill="#3b82f6" text-anchor="middle" font-size="8">Poland</text>
+</svg>
